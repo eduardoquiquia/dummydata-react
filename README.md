@@ -55,7 +55,7 @@ dummydata-react/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/dummydata-react.git
+git clone https://github.com/eduardoquiquia/dummydata-react
 cd dummydata-react
 
 # Instalar dependencias
@@ -73,13 +73,13 @@ npm run build
 npm run preview
 ```
 
-## Deploy
+## Deploy en Netlify
 
-🌐 **Deploy:** https://dummydata-react.vercel.app *(actualizar con tu URL)*
+🌐 **Deploy:** https://dummydata-react.netlify.app/
 
 ## Video Demo
 
-📺 **YouTube:** https://youtu.be/XXXXXXX *(actualizar con tu link)*
+📺 **YouTube:** https://youtu.be/XXXXXXX
 
 ## Funcionalidades implementadas
 
