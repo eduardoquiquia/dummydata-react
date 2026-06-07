@@ -79,7 +79,7 @@ npm run preview
 
 ## Video Demo
 
-📺 **YouTube:** https://youtu.be/XXXXXXX
+📺 **YouTube:** https://www.youtube.com/watch?v=E68ErIHtjGQ
 
 ## Funcionalidades implementadas
 
